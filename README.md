@@ -83,20 +83,16 @@ Email: ravi@example.com
 Password: ******  
 Blood Group: B+  
 Location: Hyderabad
-✅ Requester Search (Input)
-text
-Copy
-Edit
+## ✅ Requester Search (Input)
+
 Blood Group: B+
-🎯 Output (Search Result)
-text
-Copy
-Edit
+## 🎯 Output (Search Result)
+
 Matching Donors:
 - Ravi Kumar | ravi@example.com | Hyderabad
 Email Notification Sent!
 
-⚙️ How to Run Locally
+## ⚙️ How to Run Locally
 🛠️ Install XAMPP or any PHP server.
 
 📁 Move this folder into htdocs/ inside the XAMPP installation directory.
@@ -113,7 +109,7 @@ Import sql/schema.sql into it
 
 🌐 Open http://localhost/bloodbank_management_system in your browser.
 
-📚 Tech Stack
+### 📚 Tech Stack
 Frontend: HTML, CSS, Bootstrap 5
 
 Backend: PHP (Procedural)
@@ -122,12 +118,12 @@ Database: MySQL
 
 Email: PHP mail() (basic notification system)
 
-👨‍💻 Contributors
+### 👨‍💻 Contributors
 
 Sanku Rajshree Rao
 
 
-💡 Future Improvements
+### 💡 Future Improvements
 SMS notifications via Twilio
 
 PHPMailer integration for real email alerts
@@ -136,5 +132,5 @@ Donor availability calendar
 
 PDF download for camp records
 
-📜 License
+## 📜 License
 This project is open source and free to use under the MIT License.
