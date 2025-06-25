@@ -75,7 +75,7 @@ bloodbank_management_system/
 ---
 
 ## 🧪 Sample Input / Output
-![Sample Input](sample_input.png)
+![Sample Input](input.png)
 ![Sample Output](sample_search_result.png)
 ### ➕ Donor Registration (Input)
 Name: Ravi Kumar  
