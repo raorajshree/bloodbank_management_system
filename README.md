@@ -70,7 +70,7 @@ bloodbank_management_system/
 ![Donor Dashboard](donor_dashnboard.png)
 
 ### 🔍 Requester Search Result
-![Search Result](assets/images/sample_search_result.png)
+![Search Result](sample_search.png)
 
 ---
 
