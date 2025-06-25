@@ -5,6 +5,37 @@
 A web-based **Blood Bank Management System** built using **PHP**, **MySQL**, and **Bootstrap 5** to streamline the process of blood donation, request handling, and blood camp management. This project enables **Donors**, **Requesters**, and **Admins** to interact through an intuitive and responsive interface.
 
 ---
+## 🏗️ Project Structure
+<pre>
+bloodbank_management_system/
+│
+├── index.php
+├── login.php
+├── register.php
+├── register_action.php
+├── donor_dashboard.php
+├── requester_dashboard.php
+├── admin_dashboard.php
+├── add_camp.php
+│
+├── db.php
+├── utils.php
+│
+├── assets/
+│   ├── css/style.css
+│   └── images/
+│       ├── bloodbank_banner.png
+│       ├── sample_login.png
+│       ├── sample_donor.png
+│       └── sample_search_result.png
+│
+├── sql/
+│   └── schema.sql
+│
+├── requirements.txt
+└── README.md
+</pre>
+---
 
 ## 🚀 Live Preview (Optional)
 **[Deploy on InfinityFree / 000webhost if needed]**
@@ -64,37 +95,7 @@ Edit
 Matching Donors:
 - Ravi Kumar | ravi@example.com | Hyderabad
 Email Notification Sent!
-🏗️ Project Structure
-bash
-Copy
-Edit
-bloodbank_management_system/
-│
-├── index.php
-├── login.php
-├── register.php
-├── register_action.php
-├── donor_dashboard.php
-├── requester_dashboard.php
-├── admin_dashboard.php
-├── add_camp.php
-│
-├── db.php
-├── utils.php
-│
-├── assets/
-│   ├── css/style.css
-│   └── images/
-│       ├── bloodbank_banner.png
-│       ├── sample_login.png
-│       ├── sample_donor.png
-│       └── sample_search_result.png
-│
-├── sql/
-│   └── schema.sql
-│
-├── requirements.txt
-└── README.md
+
 ⚙️ How to Run Locally
 🛠️ Install XAMPP or any PHP server.
 
