@@ -47,7 +47,6 @@ A web-based **Blood Bank Management System** built using **PHP**, **MySQL**, and
 ![Sample Input](sample_input.png)
 ![Sample Output](sample_search_result.png)
 ### ➕ Donor Registration (Input)
-```text
 Name: Ravi Kumar  
 Email: ravi@example.com  
 Password: ******  
