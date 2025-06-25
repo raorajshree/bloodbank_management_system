@@ -1,6 +1,6 @@
 # 🩸 Blood Bank Management System
 
-![Blood Bank Banner](bloodbank_banner.png)
+![Blood Bank Banner](blooddbank_banner.png)
 
 A web-based **Blood Bank Management System** built using **PHP**, **MySQL**, and **Bootstrap 5** to streamline the process of blood donation, request handling, and blood camp management. This project enables **Donors**, **Requesters**, and **Admins** to interact through an intuitive and responsive interface.
 
