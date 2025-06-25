@@ -64,10 +64,10 @@ bloodbank_management_system/
 ## 🖥️ Screenshots
 
 ### 🔐 Login Page
-![Login Screenshot](assets/images/sample_login.png)
+![Login Screenshot](sample_login.png)
 
 ### 🧑‍🦰 Donor Dashboard
-![Donor Dashboard](assets/images/sample_donor.png)
+![Donor Dashboard](donor_dashnboard.png)
 
 ### 🔍 Requester Search Result
 ![Search Result](assets/images/sample_search_result.png)
