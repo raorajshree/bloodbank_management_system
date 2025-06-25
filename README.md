@@ -109,7 +109,7 @@ Import sql/schema.sql into it
 
 🌐 Open http://localhost/bloodbank_management_system in your browser.
 
-### 📚 Tech Stack
+## 📚 Tech Stack
 Frontend: HTML, CSS, Bootstrap 5
 
 Backend: PHP (Procedural)
@@ -118,12 +118,12 @@ Database: MySQL
 
 Email: PHP mail() (basic notification system)
 
-### 👨‍💻 Contributors
+## 👨‍💻 Contributors
 
 Sanku Rajshree Rao
 
 
-### 💡 Future Improvements
+## 💡 Future Improvements
 SMS notifications via Twilio
 
 PHPMailer integration for real email alerts
@@ -132,5 +132,6 @@ Donor availability calendar
 
 PDF download for camp records
 
-## 📜 License
-This project is open source and free to use under the MIT License.
+# 📜 License
+This project is open source and free to use under the MIT License .
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg) .
