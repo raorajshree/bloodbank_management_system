@@ -1,0 +1,1 @@
+<?php // Utility functions can be defined here ?>

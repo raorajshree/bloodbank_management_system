@@ -1,0 +1,1 @@
+<!-- Placeholder for camp update page -->
